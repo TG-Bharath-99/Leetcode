@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/TG-Bharath-99/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

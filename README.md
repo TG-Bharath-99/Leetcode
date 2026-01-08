@@ -25,4 +25,12 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/TG-Bharath-99/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/TG-Bharath-99/Leetcode/tree/master/0595-big-countries) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->

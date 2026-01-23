@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

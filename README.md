@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

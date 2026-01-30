@@ -15,36 +15,21 @@
  */
 class Solution{
     public boolean isSymmetric(TreeNode root){
-        if(root.left==null && root.right==null){
+        if(root==null){
             return true;
         }
-        Queue<TreeNode>q=new LinkedList<>();
-        q.offer(root.left);
-        q.offer(root.right);
-        while(!q.isEmpty()){
-            TreeNode temp1=q.poll();
-            TreeNode temp2=q.poll();
-            if((temp1==null && temp2!=null) || (temp1!=null && temp2==null)){
-                return false;
-            }
-            if(temp1!=null && temp2!=null && temp1.val!=temp2.val){
-                return false;
-            }
-           
-           if(temp1.left==null && temp2.right!=null){
-               return false;
-           }
-           if(temp1.right==null && temp2.left!=null){
-               return false;
-           }
-           
-           if(temp1.right!=null) q.offer(temp1.right);
-           if(temp2.left!=null) q.offer(temp2.left);
-           if(temp1.left!=null) q.offer(temp1.left);
-           if(temp2.right!=null) q.offer(temp2.right);
-           
-           
+        return DFS(root.left,root.right);
+    }
+    boolean DFS(TreeNode p,TreeNode q){
+        if(p==null && q==null){
+            return true;
         }
-        return true;
+        if(p==null || q==null){
+            return false;
+        }
+        if(p.val!=q.val){
+            return false;
+        }
+        return DFS(p.left,q.right) && DFS(p.right,q.left);
     }
 }

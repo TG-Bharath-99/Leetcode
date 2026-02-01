@@ -1,20 +1,20 @@
 class Solution{
     public int[] findErrorNums(int[] nums){
-        int []ans=new int[2];
-        int k=0;
-        int sum=0;
-        Map<Integer,Integer>map=new HashMap<>();
-        for(int i : nums){
-            if(map.containsKey(i)){
-                ans[k++]=i;
+        int d=-1,m=-1;
+        for(int i=0;i<nums.length;i++){
+            int idx=Math.abs(nums[i])-1;
+            if(nums[idx]<0){
+                d=idx+1;
             }
-            else{
-                sum+=i;
-                map.put(i,map.getOrDefault(i,0)+1);
+            else
+            nums[idx]=-nums[idx];
+        }
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                m=i+1;
+                break;
             }
         }
-        int asum=nums.length*(nums.length+1)/2;
-        ans[k]=asum-sum;
-        return ans;
+        return new int[]{d,m};
     }
 }

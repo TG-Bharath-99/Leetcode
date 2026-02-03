@@ -14,26 +14,16 @@
  * }
  */
 class Solution{
-    public boolean check(TreeNode p,TreeNode q){
-        if(p==null && q==null){
-            return true;
-        }
-        if(p==null || q==null){
-            return false;
-        }
-        if(p.val!=q.val){
-            return false;
-        }
-        return check(p.left,q.left) && check(p.right,q.right);
-    }
     public boolean isSubtree(TreeNode root, TreeNode subRoot){
-        if(root==null){
-            return false;
-        }
-        if(check(root,subRoot)){
-            return true;
-        }
-        return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
+        String s1=serialize(root);
+        String s2=serialize(subRoot);
+        System.out.print(s1+"\n"+s2);
+        return s1.contains(s2);
     }
-    
+    String serialize(TreeNode root){
+        if(root==null){
+            return "*";
+        }
+        return ","+root.val+serialize(root.left)+serialize(root.right);
+    }
 }

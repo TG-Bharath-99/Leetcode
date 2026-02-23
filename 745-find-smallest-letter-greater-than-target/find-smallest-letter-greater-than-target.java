@@ -1,18 +1,17 @@
 class Solution{
     public char nextGreatestLetter(char[] letters, char target){
-        if(target>=letters[letters.length-1]){
-            return letters[0];
-        }
-        int start=0,end=letters.length-1;
-        while(start<=end){
-            int mid=start+(end-start)/2;
+        char ch=letters[0];
+        int low=0,high=letters.length-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
             if(letters[mid]>target){
-                end=mid-1;
+                ch=letters[mid];
+                high=mid-1;
             }
             else{
-                start=mid+1;
+                low=mid+1;
             }
         }
-        return letters[start];
+        return ch;
     }
 }

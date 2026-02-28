@@ -1,18 +1,20 @@
 class Solution{
     public int findMin(int[] nums){
-        int s=0,e=nums.length-1;
-        while(s<e){
-            int mid=s+(e-s)/2;
-            if(nums[mid]>nums[e]){
-                s=mid+1;
+        int n=nums.length;
+        if(nums[0]<nums[n-1]){
+            return nums[0];
+        }
+        int low=0;
+        int high=n-1;
+        while(low<high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]>nums[high]){
+                low=mid+1;
             }
-            else if(nums[mid]<nums[e]){
-                e=mid;
-            }
-            else{
-                e--;
+            else if(nums[mid]<nums[high]){
+                high=mid;
             }
         }
-        return nums[s];
+        return nums[low];
     }
 }

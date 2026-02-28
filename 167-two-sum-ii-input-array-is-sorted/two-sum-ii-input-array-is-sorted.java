@@ -1,9 +1,8 @@
-class Solution {
-    public int[] twoSum(int[] num, int target) {
-        int i=0,j=num.length-1;
-        int []arr=new int[2];
+class Solution{
+    public int[] twoSum(int[] numbers, int target){
+        int i=0,j=numbers.length-1;
         while(i<j){
-            int sum=num[i]+num[j];
+            int sum=numbers[i]+numbers[j];
             if(sum==target){
                 return new int[]{i+1,j+1};
             }
@@ -14,6 +13,6 @@ class Solution {
                 j--;
             }
         }
-        return new int[]{0};
+        return new int[]{-1,-1};
     }
 }

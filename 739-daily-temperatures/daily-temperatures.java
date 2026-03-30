@@ -4,7 +4,8 @@ class Solution{
         int []ans=new int[nums.length];
         for(int i=0;i<nums.length;i++){
             while(!s.isEmpty() && nums[i]>nums[s.peek()]){
-                ans[s.peek()]=i-s.pop();
+                int x=s.pop();
+                ans[x]=i-x;
             }
             s.push(i);
         }

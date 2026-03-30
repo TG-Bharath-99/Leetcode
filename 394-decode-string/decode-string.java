@@ -1,29 +1,32 @@
 class Solution{
-    public String decodeString(String string){
-        Stack<String>s=new Stack<>();
-        StringBuilder sb=new StringBuilder();
-        for(char ch : string.toCharArray()){
-            if(ch==']'){
-                StringBuilder curr=new StringBuilder();
-                while(!s.peek().equals("[")){
-                    curr.insert(0,s.pop());
+    public String decodeString(String s){
+        Stack<String>ch=new Stack<>();
+        Stack<Integer>in=new Stack<>();
+        String curr="";
+        int num=0;
+        for(char c : s.toCharArray()){
+            if(Character.isDigit(c)){
+                num=num*10+(c-'0');
+            }
+            else if(c=='['){
+                ch.push(curr);
+                in.push(num);
+                curr="";
+                num=0;
+            }
+            else if(c==']'){
+                String prev=ch.pop();
+                int count=in.pop();
+                String temp="";
+                for(int i=0;i<count;i++){
+                    temp+=curr;
                 }
-                s.pop();
-                StringBuilder num=new StringBuilder();
-                while(!s.isEmpty() && Character.isDigit(s.peek().charAt(0))){
-                    num.insert(0,s.pop());
-                }
-                int k=Integer.parseInt(num.toString());
-                String r=curr.toString().repeat(k);
-                s.push(r);
+                curr=prev+temp;
             }
             else{
-                s.push(String.valueOf(ch));
+                curr+=c;
             }
         }
-        for(String str : s){
-            sb.append(str);
-        }
-        return sb.toString();
+        return curr;
     }
 }

@@ -22,7 +22,7 @@ class Solution{
     }
     public TreeNode deleteNode(TreeNode root, int key){
         if(root==null){
-            return null;
+            return root;
         }
         if(key<root.val){
             root.left=deleteNode(root.left,key);
@@ -31,11 +31,15 @@ class Solution{
             root.right=deleteNode(root.right,key);
         }
         else{
-            if(root.left==null) return root.right;
-            if(root.right==null) return root.left;
-            TreeNode temp=findMax(root.left);
-            root.val=temp.val;
-            root.left=deleteNode(root.left,temp.val);
+            if(root.left==null){
+                return root.right;
+            }
+            if(root.right==null){
+                return root.left;
+            }
+            TreeNode max=findMax(root.left);
+            root.val=max.val;
+            root.left=deleteNode(root.left,max.val);
         }
         return root;
     }

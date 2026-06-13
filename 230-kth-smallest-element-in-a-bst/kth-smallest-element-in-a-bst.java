@@ -14,22 +14,23 @@
  * }
  */
 class Solution{
-    int count=0;
+    int ans=0;
+    int L=0;
     public int kthSmallest(TreeNode root, int k){
-        return helper(root,k).val;
+        L=k;
+        DFS(root);
+        return ans;
     }
-    TreeNode helper(TreeNode root,int k){
+    void DFS(TreeNode root){
         if(root==null){
-            return null;
+            return;
         }
-        TreeNode left=helper(root.left,k);
-        if(left!=null){
-            return left;
+        DFS(root.left);
+        L--;
+        if(L==0){
+            ans=root.val;
+            return;
         }
-        count++;
-        if(count==k){
-            return root;
-        }
-        return helper(root.right,k);
+        DFS(root.right);
     }
 }

@@ -17,14 +17,14 @@ class Solution{
     public TreeNode sortedArrayToBST(int[] nums){
         return BST(nums,0,nums.length-1);
     }
-    TreeNode BST(int []nums,int s,int e){
-        if(s>e){
+    TreeNode BST(int []nums,int l,int h){
+        if(l>h){
             return null;
         }
-        int mid=s+(e-s)/2;
+        int mid=l+(h-l)/2;
         TreeNode root=new TreeNode(nums[mid]);
-        root.left=BST(nums,s,mid-1);
-        root.right=BST(nums,mid+1,e);
+        root.left=BST(nums,l,mid-1);
+        root.right=BST(nums,mid+1,h);
         return root;
     }
 }

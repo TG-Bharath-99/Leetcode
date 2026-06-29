@@ -100,4 +100,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->

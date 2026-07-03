@@ -13,8 +13,12 @@
  *     }
  * }
  */
-class Solution {
-    public boolean checkTree(TreeNode root) {
-        return (root.val==root.left.val+root.right.val);
+class Solution{
+    public boolean checkTree(TreeNode root){
+        if(root==null) return true;
+        if(root.left==null && root.right==null) return true;
+        int left=(root.left!=null)?root.left.val:0;
+        int right=(root.right!=null)?root.right.val:0;
+        return (root.val==left+right) && checkTree(root.left) && checkTree(root.right);
     }
 }

@@ -61,6 +61,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/TG-Bharath-99/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -71,6 +72,7 @@
 | [0100-same-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/TG-Bharath-99/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -89,6 +91,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
+| [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -104,6 +107,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 ## Sorting
 |  |
@@ -137,6 +141,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |

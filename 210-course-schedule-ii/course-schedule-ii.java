@@ -1,39 +1,36 @@
 class Solution{
-    boolean hasCycle=false;
     int []ans;
-    int x;
-    public void convert(int [][]prerequisites,int n,List<List<Integer>>graph){
-        for(int i=0;i<n;i++) graph.add(new ArrayList<>());
-        for(int i=0;i<prerequisites.length;i++) graph.get(prerequisites[i][1]).add(prerequisites[i][0]);
-    }
-    public void visit(int[][] edges,int key,int n,boolean []visited,boolean []pathVisited,List<List<Integer>>graph){
-        if(hasCycle) return;
-        visited[key]=true;
-        pathVisited[key]=true;
-        for(int nextkey : graph.get(key)){
-            if(!visited[nextkey]){
-                visit(edges,nextkey,n,visited,pathVisited,graph);
-                if(hasCycle) return;
-            }
-            else if(pathVisited[nextkey]){
-                hasCycle=true;
-                return;
-            }
+    int x=0;
+    public void convert(int [][]edges,int V,List<List<Integer>>graph,int []in){
+        for(int i=0;i<V;i++) graph.add(new ArrayList<>());
+        for(int i=0;i<edges.length;i++){
+            int u=edges[i][0];
+            int v=edges[i][1];
+            graph.get(u).add(v);
+            in[v]++;
         }
-        ans[x--]=key;
-        pathVisited[key]=false;
     }
     public int[] findOrder(int numCourses, int[][] prerequisites){
-        x=numCourses-1;
         ans=new int[numCourses];
-        boolean []visited=new boolean[numCourses];
-        boolean []pathVisited=new boolean[numCourses];
+        x=numCourses-1;
         List<List<Integer>>graph=new ArrayList<>();
-        convert(prerequisites,numCourses,graph);
+        int []in=new int[numCourses];
+        convert(prerequisites,numCourses,graph,in);
+        Queue<Integer>q=new LinkedList<>();
         for(int i=0;i<numCourses;i++){
-            if(!visited[i]) visit(prerequisites,i,numCourses,visited,pathVisited,graph);
+            if(in[i]==0) q.offer(i);
         }
-        if(hasCycle) return new int[0];
-        return ans;
+        int count=0;
+        while(!q.isEmpty()){
+            int key=q.poll();
+            ans[x--]=key;
+            count++;
+            for(int nei : graph.get(key)){
+                in[nei]--;
+                if(in[nei]==0) q.offer(nei);
+            }
+        }
+        if(count==numCourses) return ans;
+        return new int[0];
     }
 }

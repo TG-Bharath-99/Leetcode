@@ -4,8 +4,8 @@ class Solution{
         for(int i=0;i<edges.length;i++){
             int u=edges[i][0];
             int v=edges[i][1];
-            graph.get(u).add(v);
-            in[v]++;
+            graph.get(v).add(u);
+            in[u]++;
         }
     }
     public boolean canFinish(int numCourses, int[][] prerequisites){

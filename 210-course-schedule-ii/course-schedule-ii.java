@@ -13,6 +13,7 @@ class Solution{
         for(int nextkey : graph.get(key)){
             if(!visited[nextkey]){
                 visit(edges,nextkey,n,visited,pathVisited,graph);
+                if(hasCycle) return;
             }
             else if(pathVisited[nextkey]){
                 hasCycle=true;

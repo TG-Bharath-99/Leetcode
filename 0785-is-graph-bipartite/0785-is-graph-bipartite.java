@@ -1,28 +1,30 @@
 class Solution{
-    boolean isB=false;
-    public void visit(int [][]graph,int n,int key,boolean []visited,int []color){
-        visited[key]=true;
-        for(int nextkey : graph[key]){
-            if(visited[nextkey] && color[nextkey]==color[key]){
-                isB=true;
-                return;
-            }
-            if(!visited[nextkey]){
-                color[nextkey]=1-color[key];
-                visit(graph,n,nextkey,visited,color);
-                if(isB) return;
-            }
-        }
-    }
     public boolean isBipartite(int[][] graph){
         int n=graph.length;
         boolean []visited=new boolean[n];
         int []color=new int[n];
-         for(int j=0;j<n;j++) color[j]=-1;
+        Queue<Integer>q=new LinkedList<>();
+        for(int j=0;j<n;j++) color[j]=-1;
         for(int i=0;i<n;i++){
+            if(!visited[i]){
+                q.offer(i);
             color[i]=0;
-            if(!visited[i]) visit(graph,n,i,visited,color);
+                visited[i]=true;
+                while(!q.isEmpty()){
+                    int key=q.poll();
+                    for(int nextkey : graph[key]){
+                        if(visited[nextkey] && color[nextkey]==color[key]){
+                            return false;
+                        }
+                        else if(!visited[nextkey]){
+                            q.offer(nextkey);
+                            visited[nextkey]=true;
+                            color[nextkey]=1-color[key];
+                        }
+                    }
+                }
+            }
         }
-        return !isB;
+        return true;
     }
 }

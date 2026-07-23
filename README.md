@@ -12,6 +12,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
+| [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 ## Simulation
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0100-same-tree) |
+| [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -232,4 +235,8 @@
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

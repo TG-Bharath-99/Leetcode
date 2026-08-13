@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +170,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TG-Bharath-99/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0344-reverse-string) |

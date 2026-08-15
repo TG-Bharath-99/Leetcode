@@ -133,6 +133,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/TG-Bharath-99/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |

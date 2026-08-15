@@ -19,6 +19,7 @@
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 ## Simulation
 |  |
@@ -156,6 +157,7 @@
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -284,6 +286,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TG-Bharath-99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

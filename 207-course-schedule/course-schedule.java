@@ -1,30 +1,34 @@
 class Solution{
-    public void convert(int [][]edges,int V,List<List<Integer>>graph,int []in){
-        for(int i=0;i<V;i++) graph.add(new ArrayList<>());
-        for(int i=0;i<edges.length;i++){
-            int u=edges[i][0];
-            int v=edges[i][1];
-            graph.get(v).add(u);
-            in[u]++;
+    boolean ans=false;
+    void convert(List<List<Integer>>graph,int n,int[][] prerequisites){
+        for(int i=0;i<n;i++) graph.add(new ArrayList<>());
+        for(int i=0;i<prerequisites.length;i++){
+            graph.get(prerequisites[i][1]).add(prerequisites[i][0]);
         }
+    }
+    void visit(List<List<Integer>>graph,int key,int n,boolean []visited,boolean []pathvisited){
+        if(ans) return;
+        visited[key]=true;
+        pathvisited[key]=true;
+        for(int nei : graph.get(key)){
+            if(visited[nei] && pathvisited[nei]){
+                ans=true;
+                return;
+            }
+            if(!visited[nei]){
+                visit(graph,nei,n,visited,pathvisited);
+            }
+        }
+        pathvisited[key]=false;
     }
     public boolean canFinish(int numCourses, int[][] prerequisites){
         List<List<Integer>>graph=new ArrayList<>();
-        int []in=new int[numCourses];
-        convert(prerequisites,numCourses,graph,in);
-        Queue<Integer>q=new LinkedList<>();
+        convert(graph,numCourses,prerequisites);
+        boolean []visited=new boolean[numCourses];
+        boolean []pathvisited=new boolean[numCourses];
         for(int i=0;i<numCourses;i++){
-            if(in[i]==0) q.offer(i);
+            if(!visited[i]) visit(graph,i,numCourses,visited,pathvisited);
         }
-        int count=0;
-        while(!q.isEmpty()){
-            int key=q.poll();
-            count++;
-            for(int nei : graph.get(key)){
-                in[nei]--;
-                if(in[nei]==0) q.offer(nei);
-            }
-        }
-        return count==numCourses;
+        return !ans;
     }
 }

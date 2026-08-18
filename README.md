@@ -6,6 +6,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/TG-Bharath-99/Leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
@@ -284,6 +285,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/TG-Bharath-99/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/TG-Bharath-99/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TG-Bharath-99/Leetcode/tree/master/0207-course-schedule) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TG-Bharath-99/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

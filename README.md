@@ -159,6 +159,7 @@
 | [1514-path-with-maximum-probability](https://github.com/TG-Bharath-99/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TG-Bharath-99/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -174,6 +175,7 @@
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Matrix
 |  |
 | ------- |

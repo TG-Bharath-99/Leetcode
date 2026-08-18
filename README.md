@@ -141,6 +141,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/TG-Bharath-99/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/TG-Bharath-99/Leetcode/tree/master/0994-rotting-oranges) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/TG-Bharath-99/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking

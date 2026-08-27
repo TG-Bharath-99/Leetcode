@@ -146,6 +146,7 @@
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TG-Bharath-99/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -177,6 +178,7 @@
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -232,6 +235,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Stack
@@ -303,6 +307,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/TG-Bharath-99/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |

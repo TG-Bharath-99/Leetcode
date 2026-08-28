@@ -159,6 +159,7 @@
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/TG-Bharath-99/Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -315,6 +316,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/TG-Bharath-99/Leetcode/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
@@ -329,6 +331,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Directed Acyclic Graph
@@ -347,4 +350,8 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

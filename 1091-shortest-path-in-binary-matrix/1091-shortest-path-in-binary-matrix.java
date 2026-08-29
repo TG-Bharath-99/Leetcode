@@ -1,33 +1,37 @@
 class Solution{
     public int shortestPathBinaryMatrix(int[][] grid){
-        int dis=1;
         if(grid[0][0]==1) return -1;
         int m=grid.length;
         int n=grid[0].length;
         if(grid[m-1][n-1]==1) return -1;
-        boolean [][]visited=new boolean[m][n];
-        int []dr={0,0,-1,1,-1,-1,1,1};
-        int []dc={-1,1,0,0,-1,1,-1,1};
-        Queue<int[]>q=new LinkedList<>();
-        q.offer(new int[]{0,0});
-        visited[0][0]=true;
-        while(!q.isEmpty()){
-            int size=q.size();
-            for(int j=0;j<size;j++){
-                int []curr=q.poll();
+        int [][]dis=new int[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                dis[i][j]=Integer.MAX_VALUE;
+            }
+        }
+        int []r={0,0,-1,1,-1,-1,1,1};
+        int []c={-1,1,0,0,-1,1,-1,1};
+        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->a[2]-b[2]);
+        pq.offer(new int[]{0,0,1});
+        dis[0][0]=1;
+        while(!pq.isEmpty()){
+            int []curr=pq.poll();
             int row=curr[0];
             int col=curr[1];
-            if(row==m-1 && col==n-1) return dis;
-                for(int i=0;i<8;i++){
-                int newrow=row+dr[i];
-                int newcol=col+dc[i];
-                if(newrow>=0 && newrow<m && newcol>=0 && newcol<n && !visited[newrow][newcol] && grid[newrow][newcol]==0){
-                    q.offer(new int[]{newrow,newcol});
-                    visited[newrow][newcol]=true;
-                   }
+            int cost=curr[2];
+            if(row==m-1 && col==n-1) return cost;
+            for(int i=0;i<8;i++){
+                int newrow=row+r[i];
+                int newcol=col+c[i];
+                if(newrow>=0 && newrow<m && newcol>=0 && newcol<n && grid[newrow][newcol]==0){
+                    int newcost=cost+1;
+                    if(newcost<dis[newrow][newcol]){
+                        dis[newrow][newcol]=newcost;
+                        pq.offer(new int[]{newrow,newcol,dis[newrow][newcol]});
+                    }
                 }
             }
-            dis++;
         }
         return -1;
     }

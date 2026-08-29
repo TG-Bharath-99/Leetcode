@@ -134,6 +134,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TG-Bharath-99/Leetcode/tree/master/0035-search-insert-position) |
@@ -236,6 +237,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0011-container-with-most-water) |
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TG-Bharath-99/Leetcode/tree/master/0125-valid-palindrome) |
@@ -351,6 +353,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |

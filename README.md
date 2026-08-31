@@ -241,6 +241,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/TG-Bharath-99/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TG-Bharath-99/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |

@@ -1,22 +1,12 @@
 class Solution{
-    boolean check(int []arr,int h,int mid){
-        int hours=0;
-        for(int i : arr){
-            if(i<=mid){
-                hours++;
-            }
-            else{
-                hours+=(i/mid);
-                if(i%mid!=0){
-                    hours++;
-                }
-            }
+    boolean check(int []piles,int h,int mid){
+        for(int i : piles){
+            h-=(i+mid-1)/mid;
         }
-        return hours<=h;
+        return h>=0;
     }
     public int minEatingSpeed(int[] piles, int h){
-        int low=1;
-        int high=0;
+        int low=1,high=0;
         for(int i : piles){
             high=Math.max(high,i);
         }
@@ -29,6 +19,6 @@ class Solution{
                 low=mid+1;
             }
         }
-        return low;
+        return high;
     }
 }

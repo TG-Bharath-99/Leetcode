@@ -27,6 +27,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Simulation
@@ -34,6 +35,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -132,6 +134,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Array
 |  |
@@ -266,6 +269,7 @@
 | [0344-reverse-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Stack
 |  |

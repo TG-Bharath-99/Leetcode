@@ -141,6 +141,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TG-Bharath-99/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
@@ -223,6 +224,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/TG-Bharath-99/Leetcode/tree/master/0125-valid-palindrome) |
@@ -390,4 +393,12 @@
 | [0713-subarray-product-less-than-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

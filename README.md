@@ -134,6 +134,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Array
@@ -159,6 +160,7 @@
 | [0485-max-consecutive-ones](https://github.com/TG-Bharath-99/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
@@ -233,6 +235,7 @@
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -272,12 +275,14 @@
 | [0344-reverse-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Union-Find
 |  |
@@ -388,6 +393,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0011-container-with-most-water) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory

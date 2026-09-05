@@ -190,6 +190,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -397,6 +398,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
 |  |
 | ------- |

@@ -13,17 +13,16 @@
  *     }
  * }
  */
-class Solution{
-    public List<Integer> postorderTraversal(TreeNode root){
+class Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer>ans=new ArrayList<>();
-        if(root==null) return ans;
-        postorder(root,ans);
+        DFS(root,ans);
         return ans;
     }
-    void postorder(TreeNode root,List<Integer>ans){
+    void DFS(TreeNode root,List<Integer>ans){
         if(root==null) return;
-        postorder(root.left,ans);
-        postorder(root.right,ans);
+        DFS(root.left,ans);
+        DFS(root.right,ans);
         ans.add(root.val);
     }
 }

@@ -443,4 +443,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

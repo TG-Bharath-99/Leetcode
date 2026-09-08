@@ -14,21 +14,20 @@
  * }
  */
 class Solution{
-    boolean ans=true;
     public boolean isSymmetric(TreeNode root){
-        DFS(root.left,root.right);
-        return ans;
+        if(root==null) return true;
+        return dfs(root.left,root.right);
     }
-    void DFS(TreeNode left,TreeNode right){
-        if(left==null && right==null) return;
-        if(left==null || right==null){
-            ans=false;
-            return;
+    boolean dfs(TreeNode p,TreeNode q){
+        if(p==null && q==null){
+            return true;
         }
-        if(left.val!=right.val){
-            ans=false;
+        if(p==null || q==null){
+            return false;
         }
-        DFS(left.left,right.right);
-        DFS(left.right,right.left);
+        if(p.val!=q.val){
+            return false;
+        }
+        return dfs(p.left,q.right) && dfs(p.right,q.left);
     }
 }

@@ -7,6 +7,7 @@
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TG-Bharath-99/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -261,6 +262,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
@@ -443,6 +445,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dijkstra's Algorithm
 |  |

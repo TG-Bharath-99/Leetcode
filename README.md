@@ -71,6 +71,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -85,6 +86,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -102,6 +104,7 @@
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TG-Bharath-99/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TG-Bharath-99/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
@@ -131,6 +134,7 @@
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TG-Bharath-99/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TG-Bharath-99/Leetcode/tree/master/0547-number-of-provinces) |

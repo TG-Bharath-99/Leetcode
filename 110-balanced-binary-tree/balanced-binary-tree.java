@@ -14,13 +14,10 @@
  * }
  */
 class Solution{
-    boolean balanced=true;
+    boolean ans=true;
     public boolean isBalanced(TreeNode root){
-        if(root==null){
-            return true;
-        }
         DFS(root);
-        return balanced;
+        return ans;
     }
     int DFS(TreeNode root){
         if(root==null){
@@ -29,7 +26,7 @@ class Solution{
         int left=DFS(root.left);
         int right=DFS(root.right);
         if(Math.abs(left-right)>1){
-            balanced=false;
+            ans=false;
         }
         return 1+Math.max(left,right);
     }

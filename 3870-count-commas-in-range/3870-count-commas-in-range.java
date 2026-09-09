@@ -1,6 +1,11 @@
 class Solution{
     public int countCommas(int n){
-        if(n<1000) return 0;
-        return n-999;
+        int ans=0;
+        int p=1000;
+        while(p<=n){
+            ans+=n-p+1;
+            p*=1000;
+        }
+        return ans;
     }
 }

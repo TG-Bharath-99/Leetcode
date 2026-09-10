@@ -19,16 +19,18 @@ class Solution{
         DFS(root,0);
         return ans;
     }
-    public void DFS(TreeNode root,int num){
+    void DFS(TreeNode root,int sum){
         if(root==null){
             return;
         }
-        num=num*10+root.val;
+        sum=sum*10+root.val;
         if(root.left==null && root.right==null){
-            ans+=num;
+            ans+=sum;
+            sum-=root.val;
             return;
         }
-        DFS(root.left,num);
-        DFS(root.right,num);
+        DFS(root.left,sum);
+        DFS(root.right,sum);
+        sum/=10;
     }
 }

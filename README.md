@@ -238,6 +238,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TG-Bharath-99/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -263,6 +264,7 @@
 | [0997-find-the-town-judge](https://github.com/TG-Bharath-99/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -474,10 +476,12 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |

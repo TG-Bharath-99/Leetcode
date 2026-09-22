@@ -14,16 +14,31 @@
  * }
  */
 class Solution{
+    boolean ans=false;
     public boolean isSubtree(TreeNode root, TreeNode subRoot){
-        String s1=serialize(root);
-        String s2=serialize(subRoot);
-        System.out.print(s1+"\n"+s2);
-        return s1.contains(s2);
+        DFS(root,subRoot);
+        return ans;
     }
-    String serialize(TreeNode root){
+    void DFS(TreeNode root,TreeNode subRoot){
         if(root==null){
-            return "*";
+            return;
         }
-        return ","+root.val+serialize(root.left)+serialize(root.right);
+        if(isSubTree(root,subRoot)){
+            ans=true;
+        }
+        DFS(root.left,subRoot);
+        DFS(root.right,subRoot);
+    }
+    boolean isSubTree(TreeNode p,TreeNode q){
+        if(p==null && q==null){
+            return true;
+        }
+        if(p==null || q==null){
+            return false;
+        }
+        if(p.val!=q.val){
+            return false;
+        }
+        return isSubTree(p.left,q.left) && isSubTree(p.right,q.right);
     }
 }

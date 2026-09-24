@@ -40,6 +40,7 @@
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -249,6 +250,7 @@
 | [1514-path-with-maximum-probability](https://github.com/TG-Bharath-99/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

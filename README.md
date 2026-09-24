@@ -334,6 +334,7 @@
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/TG-Bharath-99/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TG-Bharath-99/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -354,6 +355,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/TG-Bharath-99/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Stack
 |  |

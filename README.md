@@ -91,6 +91,7 @@
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -118,6 +119,7 @@
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -155,6 +157,7 @@
 | [0802-find-eventual-safe-states](https://github.com/TG-Bharath-99/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/TG-Bharath-99/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/TG-Bharath-99/Leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |

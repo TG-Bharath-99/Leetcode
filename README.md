@@ -347,6 +347,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/TG-Bharath-99/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -523,6 +524,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/TG-Bharath-99/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |

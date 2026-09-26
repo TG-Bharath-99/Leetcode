@@ -89,6 +89,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -115,6 +116,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -143,6 +145,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TG-Bharath-99/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/0743-network-delay-time) |
@@ -179,6 +182,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TG-Bharath-99/Leetcode/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/TG-Bharath-99/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/0743-network-delay-time) |

@@ -81,6 +81,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -109,6 +110,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,6 +135,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -173,6 +176,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
@@ -350,6 +354,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/TG-Bharath-99/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/TG-Bharath-99/Leetcode/tree/master/0725-split-linked-list-in-parts) |

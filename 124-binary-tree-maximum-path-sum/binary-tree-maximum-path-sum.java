@@ -19,15 +19,16 @@ class Solution{
         DFS(root);
         return ans;
     }
-    public int DFS(TreeNode root){
+    int DFS(TreeNode root){
         if(root==null){
             return 0;
         }
         int left=DFS(root.left);
         int right=DFS(root.right);
-        left=Math.max(0,left);
-        right=Math.max(0,right);
-        ans=Math.max(ans,left+root.val+right);
+        left=(left<0)?0:left;
+        right=(right<0)?0:right;
+        int x=root.val+left+right;
+        ans=Math.max(ans,x);
         return root.val+Math.max(left,right);
     }
 }

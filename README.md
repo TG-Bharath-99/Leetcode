@@ -241,6 +241,7 @@
 | [0189-rotate-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/TG-Bharath-99/Leetcode/tree/master/0463-island-perimeter) |
@@ -299,6 +300,7 @@
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -334,6 +336,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |

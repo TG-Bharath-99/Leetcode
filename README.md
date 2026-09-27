@@ -94,6 +94,7 @@
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -124,6 +125,7 @@
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -166,6 +168,7 @@
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/TG-Bharath-99/Leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -365,6 +368,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/TG-Bharath-99/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |

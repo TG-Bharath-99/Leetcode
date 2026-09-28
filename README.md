@@ -271,6 +271,7 @@
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/TG-Bharath-99/Leetcode/tree/master/1514-path-with-maximum-probability) |

@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TG-Bharath-99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/TG-Bharath-99/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -366,6 +367,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -502,6 +504,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Sliding Window
@@ -610,6 +613,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search Tree

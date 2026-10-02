@@ -1,19 +1,22 @@
 class Solution{
-    public List<String> generateParenthesis(int n){
-        List<String>ans=new ArrayList<>();
-        fun(ans,"",n,n);
-        return ans;
-    }
-    public void fun(List<String>ans,String s,int m,int n){
-        if(m==0 && n==0){
+    void generate(List<String>ans,String s,int x,int y){
+        if(x==0 && y==0){
             ans.add(s);
             return;
         }
-        if(m>0){
-            fun(ans,s+"(",m-1,n);
+        if(x>0){
+            generate(ans,s+"(",x-1,y);
         }
-        if(n>m){
-            fun(ans,s+")",m,n-1);
+        if(x<y){
+            generate(ans,s+")",x,y-1);
         }
+    }
+    public List<String> generateParenthesis(int n){
+        List<String>ans=new ArrayList<>();
+        if(n==0){
+            return ans;
+        }
+        generate(ans,"",n,n);
+        return ans;
     }
 }

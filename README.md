@@ -357,6 +357,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting
 |  |
 | ------- |
@@ -450,6 +451,7 @@
 | [1791-find-center-of-star-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TG-Bharath-99/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -467,6 +469,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/TG-Bharath-99/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -533,6 +536,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Game Theory
 |  |
 | ------- |

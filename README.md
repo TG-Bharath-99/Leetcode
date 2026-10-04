@@ -25,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TG-Bharath-99/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/TG-Bharath-99/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -627,6 +630,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

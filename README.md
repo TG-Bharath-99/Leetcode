@@ -259,6 +259,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TG-Bharath-99/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -326,6 +327,7 @@
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TG-Bharath-99/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -364,6 +366,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -375,6 +378,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Dynamic Programming
@@ -617,6 +621,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -642,4 +647,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

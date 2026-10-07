@@ -309,6 +309,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -379,6 +380,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting
 |  |
@@ -568,6 +570,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TG-Bharath-99/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Game Theory
 |  |

@@ -5,8 +5,8 @@ class Solution{
             time[i]=(dist[i]+speed[i]-1)/speed[i];
         }
         Arrays.sort(time);
-        int ans=0;
-        for(int i=0;i<time.length;i++){
+        int ans=1;
+        for(int i=1;i<time.length;i++){
             if(time[i]<=i) return ans;
             ans++;
         }

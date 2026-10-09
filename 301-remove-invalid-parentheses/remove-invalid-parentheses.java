@@ -12,14 +12,17 @@ class Solution{
         Queue<String>q=new LinkedList<>();
         Set<String>set=new HashSet<>();
         List<String>ans=new ArrayList<>();
+        boolean found=false;
         q.offer(s);
         set.add(s);
         while(!q.isEmpty()){
+            if(found) return ans;
             int size=q.size();
             for(int i=0;i<size;i++){
                 String temp=q.poll();
                 if(isValid(temp)){
                     ans.add(temp);
+                    found=true;
                 }
                 else{
                     for(int j=0;j<temp.length();j++){
@@ -31,7 +34,6 @@ class Solution{
                     }
                 }
             }
-            if(ans.size()>0) return ans;
         }
         return ans;
     }

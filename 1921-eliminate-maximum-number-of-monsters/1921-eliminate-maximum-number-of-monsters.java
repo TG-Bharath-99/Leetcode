@@ -1,8 +1,8 @@
 class Solution{
     public int eliminateMaximum(int[] dist, int[] speed){
-        double []time=new double[dist.length];
+        int []time=new int[dist.length];
         for(int i=0;i<dist.length;i++){
-            time[i]=Math.ceil((double)dist[i]/speed[i]);
+            time[i]=(dist[i]+speed[i]-1)/speed[i];
         }
         Arrays.sort(time);
         int ans=0;

@@ -309,6 +309,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TG-Bharath-99/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/TG-Bharath-99/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -382,6 +383,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting
@@ -571,6 +573,7 @@
 | [0678-valid-parenthesis-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TG-Bharath-99/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

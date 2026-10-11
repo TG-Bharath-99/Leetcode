@@ -114,6 +114,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |

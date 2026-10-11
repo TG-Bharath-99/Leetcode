@@ -4,7 +4,7 @@ class Solution {
     int n;
     int mn;
 
-    public void rec(String s, int curr, int oc, int cc, String str, int nor) {
+    public void rec(String s, int curr, int oc, int cc, String str) {
 
         if (oc - cc < 0)
             return;
@@ -20,13 +20,13 @@ class Solution {
         char ch = s.charAt(curr);
 
         if (ch == '(') {
-            rec(s, curr + 1, oc + 1, cc, str + ch, nor);
-            rec(s, curr + 1, oc, cc, str, nor + 1);
+            rec(s, curr + 1, oc + 1, cc, str + ch);
+            rec(s, curr + 1, oc, cc, str);
         } else if (ch == ')') {
-            rec(s, curr + 1, oc, cc + 1, str + ch, nor);
-            rec(s, curr + 1, oc, cc, str, nor + 1);
+            rec(s, curr + 1, oc, cc + 1, str + ch);
+            rec(s, curr + 1, oc, cc, str);
         } else
-            rec(s, curr + 1, oc, cc, str + ch, nor + 1);
+            rec(s, curr + 1, oc, cc, str + ch);
 
         return;
     }
@@ -35,7 +35,7 @@ class Solution {
         res = new HashSet<>();
         n = s.length();
         mn = Integer.MAX_VALUE;
-        rec(s, 0, 0, 0, "", 0);
+        rec(s, 0, 0, 0, "");
     
         Iterator<String> it = res.iterator();
 

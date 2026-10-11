@@ -1,40 +1,51 @@
-class Solution{
-    boolean isValid(String s){
-        int balance=0;
-        for(char ch : s.toCharArray()){
-            if(ch=='(') balance++;
-            else if(ch==')') balance--;
-            if(balance<0) return false;
-        }
-        return balance==0;
-    }
-    public List<String> removeInvalidParentheses(String s){
-        Queue<String>q=new LinkedList<>();
-        Set<String>set=new HashSet<>();
-        List<String>ans=new ArrayList<>();
-        boolean found=false;
-        q.offer(s);
-        set.add(s);
-        while(!q.isEmpty()){
-            if(found) return ans;
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                String temp=q.poll();
-                if(isValid(temp)){
-                    ans.add(temp);
-                    found=true;
-                }
-                else{
-                    for(int j=0;j<temp.length();j++){
-                        if(temp.charAt(j)!='(' && temp.charAt(j)!=')')continue;
-                        String next=temp.substring(0,j)+temp.substring(j+1,temp.length());
-                        if(set.add(next)){
-                            q.offer(next);
-                        }
-                    }
-                }
+class Solution {
+
+    Set<String> res;
+    int n;
+    int mn;
+
+    public void rec(String s, int curr, int oc, int cc, String str, int nor) {
+
+        if (oc - cc < 0)
+            return;
+
+        if (curr == n) {
+            if (oc == cc) {
+                res.add(str);
+                mn = Math.min(mn, n - str.length());
             }
+            return;
         }
-        return ans;
+
+        char ch = s.charAt(curr);
+
+        if (ch == '(') {
+            rec(s, curr + 1, oc + 1, cc, str + ch, nor);
+            rec(s, curr + 1, oc, cc, str, nor + 1);
+        } else if (ch == ')') {
+            rec(s, curr + 1, oc, cc + 1, str + ch, nor);
+            rec(s, curr + 1, oc, cc, str, nor + 1);
+        } else
+            rec(s, curr + 1, oc, cc, str + ch, nor + 1);
+
+        return;
+    }
+
+    public List<String> removeInvalidParentheses(String s) {
+        res = new HashSet<>();
+        n = s.length();
+        mn = Integer.MAX_VALUE;
+        rec(s, 0, 0, 0, "", 0);
+    
+        Iterator<String> it = res.iterator();
+
+        while (it.hasNext()) {
+            String x = it.next();
+
+            if (n - x.length() != mn)
+                it.remove();
+        }
+        
+        return new ArrayList<>(res);
     }
 }

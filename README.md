@@ -319,6 +319,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -610,6 +611,7 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |

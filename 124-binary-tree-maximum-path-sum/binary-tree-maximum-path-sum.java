@@ -20,15 +20,12 @@ class Solution{
         return ans;
     }
     int DFS(TreeNode root){
-        if(root==null){
-            return 0;
-        }
+        if(root==null) return 0;
         int left=DFS(root.left);
+        left=Math.max(0,left);
         int right=DFS(root.right);
-        left=(left<0)?0:left;
-        right=(right<0)?0:right;
-        int x=root.val+left+right;
-        ans=Math.max(ans,x);
+        right=Math.max(0,right);
+        ans=Math.max(ans,root.val+left+right);
         return root.val+Math.max(left,right);
     }
 }

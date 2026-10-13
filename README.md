@@ -111,6 +111,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -145,6 +146,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/TG-Bharath-99/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/TG-Bharath-99/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -189,6 +191,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0886-possible-bipartition](https://github.com/TG-Bharath-99/Leetcode/tree/master/0886-possible-bipartition) |
+| [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -414,6 +417,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/TG-Bharath-99/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/TG-Bharath-99/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TG-Bharath-99/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3693-climbing-stairs-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -659,6 +663,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Bracket Sequences
 |  |
 | ------- |

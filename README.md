@@ -310,6 +310,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TG-Bharath-99/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -394,6 +395,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -586,6 +588,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TG-Bharath-99/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
@@ -687,4 +690,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->

@@ -325,6 +325,7 @@
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1929-concatenation-of-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -402,6 +403,7 @@
 | [1169-invalid-transactions](https://github.com/TG-Bharath-99/Leetcode/tree/master/1169-invalid-transactions) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting
@@ -552,6 +554,7 @@
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TG-Bharath-99/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
 | ------- |

@@ -106,6 +106,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TG-Bharath-99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -142,6 +143,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/TG-Bharath-99/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TG-Bharath-99/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -178,6 +180,7 @@
 | [0207-course-schedule](https://github.com/TG-Bharath-99/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/TG-Bharath-99/Leetcode/tree/master/0463-island-perimeter) |
@@ -661,10 +664,12 @@
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -701,6 +706,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

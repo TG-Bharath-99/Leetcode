@@ -29,10 +29,6 @@ class Solution{
             i4+=days[x];
         }
         i4+=d4;
-        System.out.println(i1);
-        System.out.println(i2);
-        System.out.println(i3);
-        System.out.println(i4);
         if(i1>i4){
             return 0;
         }

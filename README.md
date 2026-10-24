@@ -14,6 +14,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TG-Bharath-99/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/TG-Bharath-99/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TG-Bharath-99/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TG-Bharath-99/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -49,6 +50,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/TG-Bharath-99/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Simulation
 |  |

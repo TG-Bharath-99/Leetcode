@@ -29,32 +29,8 @@ class Solution{
             i4+=days[x];
         }
         i4+=d4;
-        if(i1>i4){
-            return 0;
-        }
-        else if(i3>i2){
-            return 0;
-        }
-        else if(i1==i3){
-            return Math.min(i2,i4)-i1+1;
-        }
-        else if(i2==i4){
-            return Math.min(i1,i3)-i2+1;
-        }
-        else if(i1>i3 && i2<i4){
-            return i2-i1+1;
-        }
-        else if(i1<i3 && i2>i4){
-            return i4-i3+1;
-        }
-        else if(i1>i3 && i2>i4){
-            return i4-i1+1;
-        }
-        else if(i1<i3 && i2<i4){
-            return i2-i3+1;
-        }
-        else{
-            return 0;
-        }
+        int start=Math.max(i1,i3);
+        int end=Math.min(i2,i4);
+        return Math.max(0,end-start+1);
     }
 }

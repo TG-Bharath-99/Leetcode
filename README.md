@@ -204,6 +204,7 @@
 | [0886-possible-bipartition](https://github.com/TG-Bharath-99/Leetcode/tree/master/0886-possible-bipartition) |
 | [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1367-linked-list-in-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -249,6 +250,7 @@
 | [0994-rotting-oranges](https://github.com/TG-Bharath-99/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -324,6 +326,7 @@
 | [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1169-invalid-transactions](https://github.com/TG-Bharath-99/Leetcode/tree/master/1169-invalid-transactions) |
+| [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -396,6 +399,7 @@
 | [0994-rotting-oranges](https://github.com/TG-Bharath-99/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/TG-Bharath-99/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -499,6 +503,7 @@
 | [0785-is-graph-bipartite](https://github.com/TG-Bharath-99/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/TG-Bharath-99/Leetcode/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TG-Bharath-99/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory

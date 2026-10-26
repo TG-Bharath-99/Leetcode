@@ -7,7 +7,6 @@ class Solution{
         if(grid[row][col]==1) return;
         if(grid[row][col]==0 && (row==0 || row==m-1 || col==0 || col==n-1)){
             b=false;
-            return;
         }
         if(row-1>=0 && grid[row-1][col]==0 && !visited[row-1][col]){
             check(grid,row-1,col,m,n,visited);

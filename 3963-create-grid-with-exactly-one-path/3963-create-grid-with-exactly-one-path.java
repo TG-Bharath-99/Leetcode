@@ -3,17 +3,17 @@ class Solution{
         String []ans=new String[m];
         int idx=0;
         for(int i=0;i<m;i++){
-            String s="";
+            StringBuilder sb=new StringBuilder();
             for(int j=0;j<n;j++){
-                if(i==0) s+=".";
+                if(i==0) sb.append(".");
                 else if(i>0 && j==n-1){
-                    s+=".";
+                    sb.append(".");
                 }
                 else{
-                    s+="#";
+                    sb.append("#");
                 }
             }
-            ans[idx++]=s;
+            ans[idx++]=sb.toString();
         }
         return ans;
     }

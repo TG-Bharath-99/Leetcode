@@ -8,27 +8,37 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution{
     public ListNode reverseBetween(ListNode head, int left, int right){
-        if(head==null || head.next==null || left==right){
-            return head;
-        }
-        ListNode ans=new ListNode(3162);
-        ans.next=head;
-        ListNode last=ans;
+        if(left==right) return head;
+        ListNode before=null;
+        ListNode temp=head;
         for(int i=0;i<left-1;i++){
-            last=last.next;
+            before=temp;
+            temp=temp.next;
         }
-        ListNode temp=last.next;
-        ListNode prev=null,curr=temp,nextnode=temp;
-        for(int i=0;(nextnode!=null && i<(right-left+1));i++){
-            nextnode=nextnode.next;
+        ListNode prev=null;
+        ListNode curr=temp;
+        ListNode hold=curr;
+        for(int i=0;i<right-left+1;i++){
+            ListNode next=curr.next;
             curr.next=prev;
             prev=curr;
-            curr=nextnode;
+            curr=next;
         }
-        last.next=prev;
-        temp.next=curr;
-        return ans.next;
+        if(before==null && curr==null){
+            return prev;
+        }
+        if(before==null){
+            head.next=curr;
+            return prev;
+        }
+        if(curr==null){
+            before.next=prev;
+            return head;
+        }
+        before.next=prev;
+        hold.next=curr;
+        return head;
     }
 }

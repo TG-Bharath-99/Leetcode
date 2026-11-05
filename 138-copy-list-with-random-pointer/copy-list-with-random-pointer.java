@@ -15,9 +15,6 @@ class Node {
 
 class Solution{
     public Node copyRandomList(Node head){
-        if(head==null){
-            return head;
-        }
         Map<Node,Node>map=new HashMap<>();
         Node temp=head;
         while(temp!=null){

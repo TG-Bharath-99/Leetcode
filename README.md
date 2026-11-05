@@ -338,6 +338,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1169-invalid-transactions](https://github.com/TG-Bharath-99/Leetcode/tree/master/1169-invalid-transactions) |
 | [1254-number-of-closed-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TG-Bharath-99/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -432,6 +433,7 @@
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1029-two-city-scheduling](https://github.com/TG-Bharath-99/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1169-invalid-transactions](https://github.com/TG-Bharath-99/Leetcode/tree/master/1169-invalid-transactions) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TG-Bharath-99/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/TG-Bharath-99/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -506,6 +508,7 @@
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/TG-Bharath-99/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TG-Bharath-99/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Monotonic Stack
 |  |
@@ -590,6 +593,7 @@
 | [0875-koko-eating-bananas](https://github.com/TG-Bharath-99/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TG-Bharath-99/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TG-Bharath-99/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/TG-Bharath-99/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TG-Bharath-99/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |

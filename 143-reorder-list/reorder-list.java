@@ -10,23 +10,23 @@
  */
 class Solution{
     public void reorderList(ListNode head){
-        ListNode dummy=new ListNode(3162);
         ListNode slow=head;
         ListNode fast=head;
         while(fast!=null && fast.next!=null && fast.next.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode extra=slow.next;
-        slow.next=null;
         ListNode prev=null;
-        ListNode curr=extra;
+        ListNode curr=slow.next;
+        slow.next=null;
         while(curr!=null){
             ListNode next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
         }
+        ListNode dummy=new ListNode(3162);
+        ListNode ans=dummy;
         while(head!=null && prev!=null){
             ListNode next1=head.next;
             ListNode next2=prev.next;
@@ -40,5 +40,6 @@ class Solution{
         if(head!=null){
             dummy.next=head;
         }
+        head=ans.next;
     }
 }

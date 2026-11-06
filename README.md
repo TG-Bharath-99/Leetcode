@@ -309,6 +309,7 @@
 | [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/TG-Bharath-99/Leetcode/tree/master/0463-island-perimeter) |
@@ -430,6 +431,7 @@
 | [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |

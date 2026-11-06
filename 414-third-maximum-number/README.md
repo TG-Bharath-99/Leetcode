@@ -1,4 +1,6 @@
-<h2><a href="https://leetcode.com/problems/third-maximum-number">Third Maximum Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code>, return <em>the <strong>third distinct maximum</strong> number in this array. If the third maximum does not exist, return the <strong>maximum</strong> number</em>.</p>
+<h2><a href="https://leetcode.com/problems/third-maximum-number">Third Maximum Number</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code>.</p>
+
+<p>Return the <strong>third distinct maximum</strong> number in this array. If the third <strong>maximum</strong> does not exist, return the <strong>maximum</strong> number.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>

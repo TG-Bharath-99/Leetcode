@@ -1,28 +1,36 @@
 class Solution{
     public int thirdMax(int[] nums){
-        long m1=Long.MIN_VALUE;
-        long m2=Long.MIN_VALUE;
-        long m3=Long.MIN_VALUE;
-        for(int i : nums){
-            if(m1==i || m2==i || m3==i){
-                continue;
+        int f=Integer.MIN_VALUE;
+        int s=Integer.MIN_VALUE;
+        int t=Integer.MIN_VALUE;
+        int min=0;
+        for(int num : nums){
+            if(num==Integer.MIN_VALUE) min++;
+            if(num>f){
+                t=s;
+                s=f;
+                f=num;
             }
-            if(i>m1){
-                m3=m2;
-                m2=m1;
-                m1=i;
-            } 
-            else if(i>m2){
-                m3=m2;
-                m2=i;
+            else if(num>s && num<f){
+                t=s;
+                s=num;
             }
-            else if(i>m3){
-                m3=i;
+            else if(num>t && num<s){
+                t=num;
             }
         }
-        if(m3!=Long.MIN_VALUE){
-            return (int)m3;
+        if(nums.length<3) return f;
+        if(nums.length==3){
+            if(nums[0]!=nums[1] && nums[1]!=nums[2]){
+                return t;
+            }
+            else{
+                return f;
+            }
         }
-        return (int)m1;
+        if(s==Integer.MIN_VALUE) return f;
+        if(min>1) return t;
+        if(t!=Integer.MIN_VALUE) return t;
+        return f;
     }
 }

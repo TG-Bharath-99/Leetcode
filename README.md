@@ -390,6 +390,7 @@
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TG-Bharath-99/Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/TG-Bharath-99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/TG-Bharath-99/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TG-Bharath-99/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TG-Bharath-99/Leetcode/tree/master/0217-contains-duplicate) |
@@ -495,6 +496,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TG-Bharath-99/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/TG-Bharath-99/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/TG-Bharath-99/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/TG-Bharath-99/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -793,6 +795,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/TG-Bharath-99/Leetcode/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/TG-Bharath-99/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -807,4 +810,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TG-Bharath-99/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/TG-Bharath-99/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

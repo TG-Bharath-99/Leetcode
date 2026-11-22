@@ -9,62 +9,55 @@
  * }
  */
 class Solution{
-    ListNode Middle(ListNode head){
-        ListNode slow=head;
-        ListNode fast=head.next;
-        while(fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        return slow;
-    }
-    ListNode Merge(ListNode low,ListNode high){
-        ListNode temp=null,ans=null;
-        while(low!=null && high!=null){
-            if(low.val<high.val){
-                if(temp==null){
-                    temp=low;
-                    ans=temp;
-                }
-                else{
-                    temp.next=low;
-                    temp=temp.next;
-                }
-                low=low.next;
-            }else{
-                if(temp==null){
-                    temp=high;
-                    ans=temp;
-                }
-                else{
-                    temp.next=high;
-                    temp=temp.next;
-                }
-                high=high.next;
-            }  
-        }
-        while(low!=null){
-            temp.next=low;
-            temp=temp.next;
-            low=low.next;
-        }
-        while(high!=null){
-            temp.next=high;
-            temp=temp.next;
-            high=high.next;
-        }
-        return ans;
-    }
     public ListNode sortList(ListNode head){
-        if(head==null || head.next==null){
-            return head;
+        int low=0;
+        int high=0;
+        ListNode temp=head;
+        while(temp!=null){
+            high++;
+            temp=temp.next;
         }
-        ListNode mid=Middle(head);
-        ListNode right=mid.next;
-        mid.next=null;
-        ListNode left=head;
-        ListNode node1=sortList(left);
-        ListNode node2=sortList(right);
-        return Merge(node1,node2);
+        high--;
+        return mergesort(head,low,high);
+    }
+    ListNode mergesort(ListNode head,int low,int high){
+        if(low>=high) return head;
+        ListNode temp=head;
+        ListNode left=temp;
+        int mid=low+(high-low)/2;
+        for(int i=0;i<mid-low;i++){
+            temp=temp.next;
+        }
+        ListNode right=temp.next;
+        temp.next=null;
+        ListNode n1=mergesort(left,low,mid);
+        ListNode n2=mergesort(right,mid+1,high);
+        return merge(n1,n2);
+    }
+    ListNode merge(ListNode l1,ListNode l2){
+        ListNode dummy=new ListNode(3162);
+        ListNode ans=dummy;
+        while(l1!=null && l2!=null){
+            if(l1.val<l2.val){
+                ans.next=l1;
+                l1=l1.next;
+            }
+            else{
+                ans.next=l2;
+                l2=l2.next;
+            }
+            ans=ans.next;
+        }
+        while(l1!=null){
+            ans.next=l1;
+            ans=ans.next;
+            l1=l1.next;
+        }
+        while(l2!=null){
+            ans.next=l2;
+            l2=l2.next;
+            ans=ans.next;
+        }
+        return dummy.next;
     }
 }

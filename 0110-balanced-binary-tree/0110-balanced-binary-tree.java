@@ -20,9 +20,7 @@ class Solution{
         return ans;
     }
     int DFS(TreeNode root){
-        if(root==null){
-            return 0;
-        }
+        if(root==null) return 0;
         int left=DFS(root.left);
         int right=DFS(root.right);
         if(Math.abs(left-right)>1){

@@ -22,13 +22,13 @@ class Solution{
         dp[1]=nums[1];
         dp[2]=nums[0]+nums[2];
         fun(dp,nums,n-1);
-        int res1=Math.max(dp[n-1],dp[n-2]);
+        int res1=dp[n-1];
         Arrays.fill(dp,-1);
         dp[0]=nums[0];
         dp[1]=nums[1];
         dp[2]=nums[0]+nums[2];
         fun(dp,nums,n-2);
-        int res2=Math.max(dp[n-1],dp[n-2]);
+        int res2=dp[n-2];
         return Math.max(res1,res2);
     }
 }

@@ -21,11 +21,9 @@ class Solution{
     }
     int DFS(TreeNode root){
         if(root==null) return 0;
-        int left=DFS(root.left);
-        left=Math.max(0,left);
-        int right=DFS(root.right);
-        right=Math.max(0,right);
-        ans=Math.max(ans,root.val+left+right);
+        int left=Math.max(0,DFS(root.left));
+        int right=Math.max(0,DFS(root.right));
+        ans=Math.max(ans,left+right+root.val);
         return root.val+Math.max(left,right);
     }
 }

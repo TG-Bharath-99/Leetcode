@@ -120,6 +120,7 @@
 | [0404-sum-of-left-leaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -159,6 +160,7 @@
 | [0404-sum-of-left-leaves](https://github.com/TG-Bharath-99/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -199,6 +201,7 @@
 | [0437-path-sum-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/TG-Bharath-99/Leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TG-Bharath-99/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/TG-Bharath-99/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TG-Bharath-99/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -760,6 +763,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/TG-Bharath-99/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/TG-Bharath-99/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Bracket Sequences
 |  |

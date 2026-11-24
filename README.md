@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/TG-Bharath-99/Leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/TG-Bharath-99/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TG-Bharath-99/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
@@ -476,6 +477,7 @@
 | [0005-longest-palindromic-substring](https://github.com/TG-Bharath-99/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/TG-Bharath-99/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/TG-Bharath-99/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -832,4 +834,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TG-Bharath-99/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -19,6 +19,7 @@
 | [1927-sum-game](https://github.com/TG-Bharath-99/Leetcode/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/TG-Bharath-99/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TG-Bharath-99/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TG-Bharath-99/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TG-Bharath-99/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -372,6 +373,7 @@
 | [2747-count-zero-request-servers](https://github.com/TG-Bharath-99/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/TG-Bharath-99/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TG-Bharath-99/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -660,6 +662,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/TG-Bharath-99/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -712,6 +715,7 @@
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TG-Bharath-99/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TG-Bharath-99/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -822,4 +826,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/TG-Bharath-99/Leetcode/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/TG-Bharath-99/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

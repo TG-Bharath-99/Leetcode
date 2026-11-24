@@ -303,6 +303,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TG-Bharath-99/Leetcode/tree/master/0035-search-insert-position) |
+| [0063-unique-paths-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TG-Bharath-99/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -424,6 +425,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/TG-Bharath-99/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/TG-Bharath-99/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TG-Bharath-99/Leetcode/tree/master/0200-number-of-islands) |
@@ -478,6 +480,7 @@
 | [0022-generate-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/TG-Bharath-99/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/TG-Bharath-99/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TG-Bharath-99/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |

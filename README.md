@@ -329,6 +329,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/TG-Bharath-99/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/TG-Bharath-99/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TG-Bharath-99/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -489,6 +490,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/TG-Bharath-99/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -652,6 +654,7 @@
 | [0113-path-sum-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/TG-Bharath-99/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -843,4 +846,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TG-Bharath-99/Leetcode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

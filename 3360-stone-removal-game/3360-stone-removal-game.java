@@ -1,12 +1,12 @@
-class Solution{
-    public boolean canAliceWin(int n){
-        boolean ans=false;
-        int x=10;
-        while(n>=x){
-            n-=x;
-            x--;
-            ans=!ans;
+class Solution {
+    public boolean canAliceWin(int n) {
+        boolean alice=false;
+        int i=10;
+        while(n>=i){
+            n=n-i;
+            alice=!alice;
+            i--;
         }
-        return ans;
+        return alice;
     }
 }

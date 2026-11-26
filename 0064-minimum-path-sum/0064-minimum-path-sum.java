@@ -9,12 +9,8 @@ class Solution{
         if(dp[m][n]!=Integer.MAX_VALUE) return dp[m][n];
         int down=0;
         int right=0;
-        if(n>=0){
-            right=fun(dp,grid,m,n-1);
-        }
-        if(m>=0){
-            down=fun(dp,grid,m-1,n);
-        }
+        right=fun(dp,grid,m,n-1);
+        down=fun(dp,grid,m-1,n);
         return dp[m][n]=grid[m][n]+Math.min(down,right);
     }
     public int minPathSum(int[][] grid){

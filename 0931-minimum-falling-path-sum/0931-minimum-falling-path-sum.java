@@ -1,9 +1,9 @@
 class Solution{
     int fun(int [][]dp,int [][]matrix,int m,int n){
-        if(m==0 && (n>=0 && n<dp.length)){
+        if(m<0 || n<0 || m>=dp.length || n>=dp.length) return (int)1e9;
+        if(m==0){
             return dp[m][n]=matrix[m][n];
         }
-        if(m<0 || n<0 || m>=dp.length || n>=dp.length) return (int)1e9;
         if(dp[m][n]!=Integer.MAX_VALUE) return dp[m][n];
         int left=0;
         int top=0;

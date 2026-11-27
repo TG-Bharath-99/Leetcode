@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TG-Bharath-99/Leetcode/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/TG-Bharath-99/Leetcode/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/TG-Bharath-99/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
@@ -500,6 +501,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/TG-Bharath-99/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/TG-Bharath-99/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/TG-Bharath-99/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |

@@ -8,10 +8,10 @@ class Solution{
         int left=0;
         int top=0;
         int right=0;
-        left=matrix[m][n]+fun(dp,matrix,m-1,n-1);
-        top=matrix[m][n]+fun(dp,matrix,m-1,n);
-        right=matrix[m][n]+fun(dp,matrix,m-1,n+1);
-        return dp[m][n]=Math.min(top,Math.min(left,right));
+        left=fun(dp,matrix,m-1,n-1);
+        top=fun(dp,matrix,m-1,n);
+        right=fun(dp,matrix,m-1,n+1);
+        return dp[m][n]=matrix[m][n]+Math.min(top,Math.min(left,right));
     }
     public int minFallingPathSum(int[][] matrix){
         int n=matrix.length;

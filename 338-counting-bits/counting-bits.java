@@ -7,7 +7,7 @@ class Solution{
             int num=i;
             while(num!=0){
                 count+=(num&1);
-                num=num>>1;
+                num=num>>>1;
             }
             ans[i]=count;
         }

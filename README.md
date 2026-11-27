@@ -383,6 +383,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TG-Bharath-99/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2498-frog-jump-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2747-count-zero-request-servers](https://github.com/TG-Bharath-99/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TG-Bharath-99/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TG-Bharath-99/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -664,6 +665,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/TG-Bharath-99/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TG-Bharath-99/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2498-frog-jump-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -716,6 +718,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TG-Bharath-99/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TG-Bharath-99/Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2498-frog-jump-ii](https://github.com/TG-Bharath-99/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TG-Bharath-99/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |

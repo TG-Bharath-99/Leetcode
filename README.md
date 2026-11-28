@@ -347,6 +347,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/TG-Bharath-99/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/TG-Bharath-99/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/TG-Bharath-99/Leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/TG-Bharath-99/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0817-linked-list-components](https://github.com/TG-Bharath-99/Leetcode/tree/master/0817-linked-list-components) |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -510,6 +511,7 @@
 | [0509-fibonacci-number](https://github.com/TG-Bharath-99/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/TG-Bharath-99/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/TG-Bharath-99/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/TG-Bharath-99/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TG-Bharath-99/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/TG-Bharath-99/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/TG-Bharath-99/Leetcode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
